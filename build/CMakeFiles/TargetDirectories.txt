@@ -1,0 +1,14 @@
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_loco_example_client.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_arm_sdk_example_client.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_7dof_arm_sdk_example_client.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_low_level_publisher.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_low_level_subscriber.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/low_level_hand_data_subscriber.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_low_sdk_example.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/b1_7dof_arm_low_sdk_example.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/odometer_example.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/target1.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/target2.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/abcd.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/edit_cache.dir
+/home/aldo/Scrivania/booster_robotics_sdk-main/build/CMakeFiles/rebuild_cache.dir
