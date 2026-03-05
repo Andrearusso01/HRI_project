@@ -1,3 +1,19 @@
+# COSA FARE
+```
+source /opt/ros/humble/setup.bash
+colcon build
+source install/setup.bash
+ros2 launch booster_description view.launch.py
+```
+Poi andare in Rviz, cambiare il frame da map a uno del robot.
+
+Aggiungere RobotModel
+
+Cambiare da Topic a File
+selezionare il file urdf 29 nella cartella urdf
+
+
+
 # Booster Assets
 
 This repository contains Booster robot models, motion data, and a simple helper package `booster_assets` for local development and tooling.
